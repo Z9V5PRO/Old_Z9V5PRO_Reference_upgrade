@@ -41,12 +41,6 @@ I wasted a lot of time trying to find it.
 
 .
 
-.
-
-.
-
-
-
 Coming soon...
 
 [include reprint.cfg]
