@@ -27,12 +27,19 @@ I wasted a lot of time trying to find it.
 
 
 [include multiextruder.cfg]
+
 [include macro.cfg]
+
 [include inputshaper.cfg]
 
+
 Coming soon...
+
 [include reprint.cfg]
+
 [include bltouch.cfg]
-[include light.cfg]
+
 [include filament_switch.cfg]
+
 [include 2in2out.cfg]
+
