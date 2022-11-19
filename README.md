@@ -23,6 +23,7 @@ There is a wrong part of the above link.
 
 I wasted a lot of time trying to find it.
 
+and TMC stepper driver configuration, There is no setting, no information
 
 .
 
