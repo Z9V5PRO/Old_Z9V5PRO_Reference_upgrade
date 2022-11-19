@@ -41,6 +41,8 @@ Update...
 
 [include bltouch.cfg]
 
+[include 2in2out.cfg]
+
 .
 
 .
@@ -50,6 +52,3 @@ Coming soon...
 [include reprint.cfg]
 
 [include filament_switch.cfg]
-
-[include 2in2out.cfg]
-
