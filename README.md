@@ -8,6 +8,14 @@ Almost does the desired operation.
 
 It became a printer with more possibilities.
 
+I am also a beginner, 
+
+so if there is a problem during installation, please solve it by yourself.
+
+Good ideas are shared.
+
+Thank You!!
+
 
 https://github.com/ZONESTAR3D/Control-Board/tree/main/32bit/ZM3E4
 
