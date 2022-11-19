@@ -38,6 +38,8 @@ and TMC stepper driver configuration, There is no setting, no information
 
 [include inputshaper.cfg]
 
+[include bltouch.cfg]
+
 .
 
 .
@@ -45,8 +47,6 @@ and TMC stepper driver configuration, There is no setting, no information
 Coming soon...
 
 [include reprint.cfg]
-
-[include bltouch.cfg]
 
 [include filament_switch.cfg]
 
