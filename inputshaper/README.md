@@ -1,3 +1,8 @@
+https://www.klipper3d.org/Measuring_Resonances.html
+
+
+
+
 RasberryPi GPIO
 
 ![20221119_121818](https://user-images.githubusercontent.com/102475504/202936273-9f2f2dc1-8ff0-46b0-9ba1-22ff4e6d2fa9.jpg)
