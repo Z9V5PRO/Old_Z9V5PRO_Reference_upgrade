@@ -9,8 +9,11 @@ make menuconfig
 Firmware Configuration
 
 1.STM32 - STM32F103
+
 2.Bootloader offset - 20Kib bootloader
+
 3.Communication interface - USB (on PA11/PA12)
+
 
 
 
@@ -26,14 +29,21 @@ Firmware Configuration
 
 
 download 
+
 klipper.bin -> firmware.bin
 
 Copy firmware.bin to the root directory of Micro-SD card, NOTE: !!if there is a "old_fw.bin" in the SD card, delete it first!!
+
 Power off the printer and plug the Micro-SD card into socket on control board
+
 Power on the printer, push the power button and wait about 30 seconds
+
 (https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1/6.%20Firmware)
+
+.
 
 
 Next Step is
+
 https://www.klipper3d.org/Installation.html
 
