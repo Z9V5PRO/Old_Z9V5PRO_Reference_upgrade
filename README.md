@@ -1,4 +1,10 @@
-# Z9V5 Pro ( ZM3E4 v2.1), Z8PM4Pro (same control board, If you change it a little, it will be possible to install it)
+# Z9V5 Pro ( ZM3E4 v2.1)
+
+and Z8PM4Pro (same control board, If you change it a little, it will be possible to install it, I couldn't test it because I didn't own it.)
+
+.
+.
+.
 
 Here, only the contents of installing Klipper on the above printer are included.
 
