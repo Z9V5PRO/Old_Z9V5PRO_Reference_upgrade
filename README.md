@@ -2,8 +2,9 @@
 
 I bought a new Z9V5PRO.
 
-Klipper from the basic setting and upload a new config.
+Basic setting and upload a new config.
 
+It is planned for December.
 
 .
 .
