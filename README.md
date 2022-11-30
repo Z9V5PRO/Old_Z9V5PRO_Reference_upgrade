@@ -1,3 +1,16 @@
+# Notice (2022.11.30)
+
+I bought a new Z9V5PRO.
+
+Klipper from the basic setting and upload a new config.
+
+
+.
+.
+.
+
+.
+
 # Z9V5 Pro ( ZM3E4 v2.1)
 
 and Z8PM4Pro (same control board, If you change it a little, it will be possible to install it, I couldn't test it because I didn't own it.)
