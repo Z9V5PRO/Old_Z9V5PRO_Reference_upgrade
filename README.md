@@ -1,10 +1,6 @@
-# Notice (2022.11.30)
+# Notice (2022.12.13)
 
-I bought a new Z9V5PRO.
-
-Basic setting and upload a new config.
-
-It is planned for December.
+Customizing Setting
 
 .
 .
